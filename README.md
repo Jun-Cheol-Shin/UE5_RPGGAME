@@ -9,3 +9,6 @@
 
 ## 사다리 타기 구현
 ![Climbing_Ladder](https://user-images.githubusercontent.com/77636255/203580420-f2c917f8-1b7f-406d-a521-6ac9b09e8dfa.gif)
+
+## 버그 수정 및 언덕 지형 테스트
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/77636255/203820094-69535008-406d-455d-9eb9-be98dc933540.gif)
